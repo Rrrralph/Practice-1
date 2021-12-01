@@ -1,0 +1,35 @@
+body {
+    color:papayawhip;
+    background-color:#1b1b32;
+    margin: 50px;
+    width: 1200px;
+    
+    }
+
+    a {
+        color: rgb(30, 160, 250);
+        text-decoration: none;
+    }
+
+    p {
+        font-size: 18px;
+    }
+    h1 {
+        font-family: fantasy;
+        font-size: 50px;
+        text-align: center;
+    }
+    h2{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }  
+    h3 {
+       font-style: italic;
+       font-size: 25px;
+    } 
+   li {
+        color: rgb(30, 160, 250);
+        font-size: 25px;
+       }
+span {
+        color: rgb(30, 160, 250);
+    }
